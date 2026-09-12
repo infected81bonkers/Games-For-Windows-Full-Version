@@ -241,4 +241,4 @@ This repository serves as the official landing page for Games for Windows. The s
 **Get the most recent version of Games for Windows today!**
 
 ---
-**Last updated:** 2026-09-12 13:56:55 UTC
+**Last updated:** 2026-09-12 16:56:53 UTC
